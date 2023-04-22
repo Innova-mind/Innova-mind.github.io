@@ -22,7 +22,7 @@ ZenDriver es una aplicación móvil en la que los choferes profesionales pueden 
 [![Dominik Mendoza](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/public/assets/images/contributors/DominikMendoza.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
 
 ### Ludwin Reyes
-[![Ludwin Reyes](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/public/assets/images/contributors/LudwinReyes.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
+[![Ludwin Reyes](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/public/assets/images/contributors/LudwinReyes.png)](https://www.linkedin.com/in/ludwin-reyes-suarez-51124a1bb)
 
 ### Frank Alva
 [![Frank Alva](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/public/assets/images/contributors/FrankAlva.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
