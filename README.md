@@ -8,7 +8,7 @@ InnovaMind es el resultado de la iniciativa de cinco jóvenes universitarios que
 
 ## About ZenDriver
 
-![ZenDriver](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/public/assets/images/logozendriver.png)
+![ZenDriver](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/assets/images/logozendriver.png)
 
 
 
