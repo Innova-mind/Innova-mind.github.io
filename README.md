@@ -19,19 +19,19 @@ ZenDriver es una aplicación móvil en la que los choferes profesionales pueden 
 ## Autors
 
 ### Dominik Mendoza
-[![Dominik Mendoza](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/public/assets/images/contributors/DominikMendoza.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
+[![Dominik Mendoza](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/assets/images/contributors/DominikMendoza.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
 
 ### Ludwin Reyes
-[![Ludwin Reyes](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/public/assets/images/contributors/LudwinReyes.png)](https://www.linkedin.com/in/ludwin-reyes-suarez-51124a1bb)
+[![Ludwin Reyes](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/assets/images/contributors/LudwinReyes.png)](https://www.linkedin.com/in/ludwin-reyes-suarez-51124a1bb)
 
 ### Frank Alva
-[![Frank Alva](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/public/assets/images/contributors/FrankAlva.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
+[![Frank Alva](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/assets/images/contributors/FrankAlva.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
 
 ### Nicole Price
-[![Nicole Price](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/public/assets/images/contributors/NicolePrice.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
+[![Nicole Price](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/assets/images/contributors/NicolePrice.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
 
 ### Ryan Sweden
-[![Ryan Sweden](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/public/assets/images/contributors/RyanSweden.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
+[![Ryan Sweden](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/assets/images/contributors/RyanSweden.png)](https://www.linkedin.com/in/dominik-mendoza-ramos-91496a224/)
 
 ---
 
@@ -40,12 +40,12 @@ ZenDriver es una aplicación móvil en la que los choferes profesionales pueden 
 ### Segmento de choferes profesionales
 Son personas entre 25 y 50 años que se especializan en el transporte de carga terrestre, así como en el transporte urbano e interprovincial, y que están en búsqueda de oportunidades de empleo, ya sea a tiempo completo o en calidad de contratistas independientes.
 
-![Drivers](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/public/assets/images/driver.png)
+![Drivers](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/assets/images/driver.png)
 
 ### Segmento de empresas
 Son empresas, en su mayoría pequeñas y medianas, que actualmente están buscando conductores profesionales que cumplan con ciertos requisitos. Estas empresas pueden estar especializadas en el transporte interprovincial o urbano, o bien estar en busca de un servicio de transporte de carga terrestre.
 
-![Business](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/public/assets/images/empresa.png)
+![Business](https://github.com/Innova-mind/Innova-mind.github.io/blob/main/assets/images/empresa.png)
 
 ---
 ## Características principales de ZenDriver
