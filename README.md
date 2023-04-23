@@ -3,7 +3,7 @@
 **[Autors](#autors) | [Segmentos Objetivo](#segmentos-objetivo) | [Características principales de ZenDriver](#características-principales-de-prodriver)**
 
 ## InnovaMind
-
+ 
 InnovaMind es el resultado de la iniciativa de cinco jóvenes universitarios que estudian Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Su creación surgió como solución a la problemática relacionada con la gestión de perfiles y el control de los servicios prestados por choferes profesionales.
 
 ## About ZenDriver
